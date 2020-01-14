@@ -1,0 +1,5 @@
+Pandas
+Matplotlib
+Numpy
+plotly_express
+plotly.graph_objects
