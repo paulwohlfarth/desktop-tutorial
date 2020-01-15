@@ -3,3 +3,4 @@ Matplotlib
 Numpy
 plotly_express
 plotly
+rise
