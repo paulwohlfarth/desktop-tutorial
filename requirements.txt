@@ -1,6 +1,11 @@
-Pandas
-Matplotlib
-Numpy
-plotly_express
-plotly
-rise
+name: rise-environment
+channels:
+  - damianavila82
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - bokeh
+  - rise
