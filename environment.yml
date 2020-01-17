@@ -10,3 +10,4 @@ dependencies:
   - bokeh
   - rise
   - plotly
+  - plotly_express
